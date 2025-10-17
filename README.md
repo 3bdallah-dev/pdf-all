@@ -76,6 +76,11 @@ BentoPDF offers a comprehensive suite of tools to handle all your PDF needs.
 
 ---
 
+## ☁️ One-Click Deploy to Cloudflare Workers
+
+[![Deploy to Cloudflare](https://deploy.cloudflare.com/button.svg)](https://deploy.cloudflare.com/?url=https://github.com/3bdallah-dev/bentopdf)
+
+
 ## 🚀 Getting Started
 
 You can run BentoPDF locally for development or personal use.
