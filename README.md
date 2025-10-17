@@ -76,9 +76,14 @@ BentoPDF offers a comprehensive suite of tools to handle all your PDF needs.
 
 ---
 
-## ☁️ One-Click Deploy to Cloudflare Workers
+## ☁️ Deploy to Cloudflare Pages
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/alam00000/bentopdf)
+You can deploy BentoPDF as a static site using [Cloudflare Pages](https://pages.cloudflare.com/).  
+[📘 Learn how to deploy Vite apps to Pages](https://developers.cloudflare.com/pages/framework-guides/vite/)
+
+> Recommended build command: `npm run build`  
+> Output folder: `dist`
+
 
 ## 🚀 Getting Started
 
